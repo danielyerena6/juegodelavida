@@ -5,7 +5,7 @@ Este trabajo contiene una version del juego de la vida de Conway.
 
 El codigo esta escrito en C++, las celdas vivas estan marcadas con 1 y las muertas con 0.
 
-![ScreenShot](juegodelavida.png)
+![ScreenShot](JuegodelaVida.png)
 
 
 
